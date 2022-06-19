@@ -28,4 +28,4 @@ import { ConfigurationHttpService } from './shared/configuration-http.service';
   ],
   providers: [ConfigurationSandbox, ConfigurationHttpService]
 })
-export class NgConfigurationModule {}
+export class ConfigurationModule {}

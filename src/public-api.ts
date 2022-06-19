@@ -1,5 +1,5 @@
 /*
- * Public API Surface of ng-configuration
+ * Public API Surface of bo-configuration
  */
 
 export * from './lib';

@@ -1,8 +1,8 @@
 /*
- * Public API Surface of ng-configuration
+ * Public API Surface of bo-configuration
  */
 
-export * from './ng-configuration.module';
+export * from './bo-configuration.module';
 export * from './models';
 export * from './configuration.sandbox';
 
